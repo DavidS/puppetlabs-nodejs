@@ -1,3 +1,13 @@
+## 2016-07-05
+
+##2015-05-12 0.8.0
+
+Deprecation upload in favour of Vox Pupuli
+
+This module has been moved to the care of [Vox Pupuli](https://voxpupuli.org),
+where it is now being maintained and updated. Find new versions at
+https://forge.puppet.com/puppet/nodejs.
+
 ##2015-05-12 0.8.0
 ###Backwards-incompatible changes
 - Puppet versions below 3.4.0 are no longer supported

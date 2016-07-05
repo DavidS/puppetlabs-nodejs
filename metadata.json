@@ -1,8 +1,8 @@
 {
   "name": "puppetlabs-nodejs",
-  "version": "0.8.0",
+  "version": "999.999.999",
   "author": "puppetlabs",
-  "summary": "Install Node.js package and npm package provider.",
+  "summary": "[Deprecated] Install Node.js package and npm package provider.",
   "license": "Apache-2.0",
   "source": "https://github.com/puppetlabs/puppetlabs-nodejs",
   "project_page": "https://github.com/puppetlabs/puppetlabs-nodejs",
